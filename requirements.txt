@@ -1,0 +1,10 @@
+Create a file named `requirements.txt` with the following content:
+
+```plaintext
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit
+plotly
+joblib
